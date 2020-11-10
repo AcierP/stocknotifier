@@ -39,7 +39,7 @@ newegglinks = [
     "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4205005"
 ]
 
-hook = dhooks.Webhook('https://discord.com/api/webhooks/775830552641011722/WF4q3n26Cti7OqWyPRkJJYzfmTj-EdhflZcH3olC9E19vApHNFOjNh1xJy6kDt8FcUkx')
+hook = dhooks.Webhook('WEBHOOKHERE')
 
 def checkNewEgg(proxy):
     while True:
